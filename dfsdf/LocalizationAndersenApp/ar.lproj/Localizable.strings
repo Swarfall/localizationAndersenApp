@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  LocalizationAndersenApp
+
+  Created by admin on 05.11.2019.
+  Copyright © 2019 Viacheslav Savitsky. All rights reserved.
+*/
+"Login" = "تسجيل";
+"email" = "الإلكتروني";
+"password" = "كلمه السر";
+"Enter" = "أدخل";
+"name: Viacheslav" = "الاسم: فياتشيسلاف";
+"city: Kyiv" = "كييف: المدينة";
+"company: Andersen" = "أندرسن: الشركة";
+"About me:" = "عني:";
+"Student. Programmer. I work in Andersen" = "طالب علم. مبرمج. أنا أعمل في ";

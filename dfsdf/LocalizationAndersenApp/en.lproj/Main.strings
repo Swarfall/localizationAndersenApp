@@ -1,0 +1,27 @@
+
+/* Class = "UITextView"; text = "Student. Programmer. I work in Andersen"; ObjectID = "0HU-ma-NGg"; */
+"0HU-ma-NGg.text" = "Student. Programmer. I work in Andersen";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "5ax-VU-bIr"; */
+"5ax-VU-bIr.placeholder" = "password";
+
+/* Class = "UILabel"; text = "About me:"; ObjectID = "Ddf-NW-L1v"; */
+"Ddf-NW-L1v.text" = "About me:";
+
+/* Class = "UILabel"; text = "company: Andersen"; ObjectID = "Ead-iv-qKc"; */
+"Ead-iv-qKc.text" = "company: Andersen";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "GpC-v7-4x8"; */
+"GpC-v7-4x8.text" = "Login";
+
+/* Class = "UILabel"; text = "name: Viacheslav"; ObjectID = "f8c-Mp-ft4"; */
+"f8c-Mp-ft4.text" = "name: Viacheslav";
+
+/* Class = "UIButton"; normalTitle = "Enter"; ObjectID = "ljF-dK-VKa"; */
+"ljF-dK-VKa.normalTitle" = "Enter";
+
+/* Class = "UILabel"; text = "city: Kyiv"; ObjectID = "pIv-Rn-eUe"; */
+"pIv-Rn-eUe.text" = "city: Kyiv";
+
+/* Class = "UITextField"; placeholder = "email"; ObjectID = "uz9-lP-Hg2"; */
+"uz9-lP-Hg2.placeholder" = "email";

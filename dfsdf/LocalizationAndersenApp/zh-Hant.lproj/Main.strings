@@ -1,0 +1,27 @@
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "0HU-ma-NGg"; */
+"0HU-ma-NGg.text" = "學生。程序員。我在安徒生工作";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "5ax-VU-bIr"; */
+"5ax-VU-bIr.placeholder" = "密碼";
+
+/* Class = "UILabel"; text = "About me:"; ObjectID = "Ddf-NW-L1v"; */
+"Ddf-NW-L1v.text" = "關於我:";
+
+/* Class = "UILabel"; text = "company: Andersen"; ObjectID = "Ead-iv-qKc"; */
+"Ead-iv-qKc.text" = "公司：Andersen";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "GpC-v7-4x8"; */
+"GpC-v7-4x8.text" = "登錄";
+
+/* Class = "UILabel"; text = "name: Viacheslav"; ObjectID = "f8c-Mp-ft4"; */
+"f8c-Mp-ft4.text" = "名稱：維亞切斯拉夫";
+
+/* Class = "UIButton"; normalTitle = "Enter"; ObjectID = "ljF-dK-VKa"; */
+"ljF-dK-VKa.normalTitle" = "輸入";
+
+/* Class = "UILabel"; text = "city: Kyiv"; ObjectID = "pIv-Rn-eUe"; */
+"pIv-Rn-eUe.text" = "城市：基輔";
+
+/* Class = "UITextField"; placeholder = "email"; ObjectID = "uz9-lP-Hg2"; */
+"uz9-lP-Hg2.placeholder" = "電子郵件";
